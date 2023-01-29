@@ -19,5 +19,5 @@
 * [Funciones](https://www.w3schools.com/php/php_functions.asp)
 * [Arrays](https://www.w3schools.com/php/php_arrays.asp)
 * [Variables superglobales](https://www.w3schools.com/php/php_superglobals.asp)
-
+* [Formularios](https://www.w3schools.com/php/php_forms.asp)
 

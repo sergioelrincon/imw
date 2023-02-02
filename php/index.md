@@ -20,4 +20,9 @@
 * [Arrays](https://www.w3schools.com/php/php_arrays.asp)
 * [Variables superglobales](https://www.w3schools.com/php/php_superglobals.asp)
 * [Formularios](https://www.w3schools.com/php/php_forms.asp)
+* [include/require](https://www.w3schools.com/php/php_includes.asp)
+* Manejo de ficheros
+  * [readfile](https://www.w3schools.com/php/php_includes.asp)
+  * [fopen/fread/fclose](https://www.w3schools.com/php/php_file_open.asp)
+  * [fwrite](https://www.w3schools.com/php/php_file_create.asp)
 

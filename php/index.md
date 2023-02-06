@@ -25,4 +25,9 @@
   * [readfile](https://www.w3schools.com/php/php_includes.asp)
   * [fopen/fread/fclose](https://www.w3schools.com/php/php_file_open.asp)
   * [fwrite](https://www.w3schools.com/php/php_file_create.asp)
+* MySQL
+  * [Conexión](https://www.w3schools.com/php/php_mysql_connect.asp)
+  * [Inserción de registros](https://www.w3schools.com/php/php_mysql_insert.asp)
+  * [Consulta de registros](https://www.w3schools.com/php/php_mysql_select.asp)
+  * [Eliminación de datos](https://www.w3schools.com/php/php_mysql_delete.asp)
 
